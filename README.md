@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzouaoui&show_icons=true&locale=en&layout=compact" alt="omarzouaoui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarzouaoui&show_icons=true&locale=en" alt="omarzouaoui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzouaoui&" alt="omarzouaoui" /></p>
